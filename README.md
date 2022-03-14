@@ -31,5 +31,5 @@ Using this technique we are able to obtain weather data for the months of June a
 
 ![image](https://user-images.githubusercontent.com/99628763/158086003-dd3c192a-891d-4895-8819-539c56dd669e.png)
 
-
+With these results it may be concluded the weather in this area is stable year round. There is a slight decrease in temperature between the summer and winter months, however the lowest temp recorded in December was 56 F vs 64 F in June. This maybe cause for some concern, as a business that relies on warm weather, 56 F might be a little too low. The aforementioed concern is lessened when we take a look at the mode for the month of December in particular and see that it is 71 F. Even though there may be colder days in December, overall the weather is still desirable with many days in the low to high 70's.
 
