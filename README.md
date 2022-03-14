@@ -21,3 +21,15 @@ We are able to link from Python to our new database by introducing a session lin
 
 Ex. of a session query: ![image](https://user-images.githubusercontent.com/99628763/158085212-81edbbb3-4e7a-442c-9d09-cc792cefd1a1.png)
 
+Using this technique we are able to obtain weather data for the months of June and December to show 3 key points:
+<ul>
+  <li>The count of June was over 200 higher than December, possibly showing more activity in the month of June</li>
+  <li>the minimum temperature for December was about 8 degress lower than June</li>
+  <li>the max temperature for both June and December were about the same 85 vs 83</li>
+  <li>the modes of both months were also similar within 5 degrees</li>
+</ul>
+
+![image](https://user-images.githubusercontent.com/99628763/158086003-dd3c192a-891d-4895-8819-539c56dd669e.png)
+
+
+
