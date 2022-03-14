@@ -23,3 +23,8 @@ Using this technique we are able to obtain temperature data for the months of Ju
 
 With these results it may be concluded the temperature in this area is overall stable year round. There is a slight decrease in temperature between the summer and winter months, however the lowest temp recorded in December was 56 F vs 64 F in June. This might be cause for concern, as a business that relies on warm weather, 56 F might be a little too low. The aforementioed concern is lessened when we take a look at the mode for the month of December in particular and see that it is 71 F. Even though there may be colder days in December, overall the temperature of the weather is still desirable with many days in the low 70's.
 
+We utlized flask in this project to show our query results for precipitations, total number of stations, temps for the previous year, and min, max, and avg temps for all stations given a range of dates.
+
+Ex.![image](https://user-images.githubusercontent.com/99628763/158086851-df4803dc-ef85-45f4-9366-007329623026.png)
+
+
